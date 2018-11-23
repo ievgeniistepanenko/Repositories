@@ -11,6 +11,7 @@
     <PackageProjectUrl>https://github.com/ievgeniistepanenko/Repositories</PackageProjectUrl>
     <RepositoryUrl>https://github.com/ievgeniistepanenko/Repositories</RepositoryUrl>
     <PackageTags>Pattern</PackageTags>
+    <PackageLicenseUrl>https://github.com/ievgeniistepanenko/Repositories/blob/master/LICENSE</PackageLicenseUrl>
   </PropertyGroup>
 
   <ItemGroup>
