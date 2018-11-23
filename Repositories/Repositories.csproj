@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <PackageId>Softwaris.Repositories</PackageId>
+    <Authors>Ievgenii Stepanenko</Authors>
+    <Company>Softwaris</Company>
+    <Description>Set of generic repositories based on Microsoft Entity Gramework Core</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="2.1.4" />
+    <PackageReference Include="Softwaris.Specification.Interfaces" Version="1.0.0" />
+  </ItemGroup>
+
+</Project>
