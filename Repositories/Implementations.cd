@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Repositories.CommandQueryRepository&lt;TContext&gt;" Collapsed="true">
+    <Position X="6.5" Y="3.75" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAQgAIAAAAAAAAAAAAAAAAAAAAEAAEAgAAAAAAIAAAA=</HashCode>
+      <FileName>CommandQueryRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Repositories.CommandQueryRepositoryAsync&lt;TContext&gt;" Collapsed="true">
+    <Position X="9.5" Y="5.25" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAQgAIAAAAAAAAAAAAAAAAAAAIEAAEAgAAAAAAIAAAA=</HashCode>
+      <FileName>CommandQueryRepositoryAsync.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Repositories.CommandRepository&lt;TContext&gt;" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAQgAIAAAAAAAAAAAAAAAAEAAAEAAEAgAAAAAAIAAAA=</HashCode>
+      <FileName>CommandRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Repositories.CommandRepositoryAsync&lt;TContext&gt;" Collapsed="true">
+    <Position X="0.5" Y="3.75" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CommandRepositoryAsync.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Repositories.QueryRepository&lt;TContext&gt;" Collapsed="true">
+    <Position X="8.25" Y="2.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>BAQAAAAAAAAAAABACAAAAAEAAAAAAAAQAgAAAAAgAAA=</HashCode>
+      <FileName>QueryRepository.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Repositories.QueryRepositoryAsync&lt;TContext&gt;" Collapsed="true">
+    <Position X="10.5" Y="3.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAEAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAMAIAAAAAA=</HashCode>
+      <FileName>QueryRepositoryAsync.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

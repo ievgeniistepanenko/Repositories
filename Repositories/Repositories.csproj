@@ -7,15 +7,17 @@
     <PackageId>Softwaris.Repositories</PackageId>
     <Authors>Ievgenii Stepanenko</Authors>
     <Company>Softwaris</Company>
-    <Description>Set of generic repositories based on Microsoft Entity Gramework Core</Description>
+    <Description>Set of generic repositories based on Microsoft Entity Framework Core</Description>
     <PackageProjectUrl>https://github.com/ievgeniistepanenko/Repositories</PackageProjectUrl>
     <RepositoryUrl>https://github.com/ievgeniistepanenko/Repositories</RepositoryUrl>
     <PackageTags>Pattern</PackageTags>
     <PackageLicenseUrl>https://github.com/ievgeniistepanenko/Repositories/blob/master/LICENSE</PackageLicenseUrl>
+    <Version>1.0.1</Version>
+    <AssemblyVersion>1.0.1.0</AssemblyVersion>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="2.1.4" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="2.2.1" />
     <PackageReference Include="Softwaris.Specification.Interfaces" Version="1.0.0" />
   </ItemGroup>
 
