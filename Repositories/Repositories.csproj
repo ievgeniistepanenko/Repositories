@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netstandard2.0</TargetFramework>
+    <TargetFramework>netstandard2.1</TargetFramework>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
     <PackageId>Softwaris.Repositories</PackageId>
@@ -12,13 +12,14 @@
     <RepositoryUrl>https://github.com/ievgeniistepanenko/Repositories</RepositoryUrl>
     <PackageTags>Pattern</PackageTags>
     <PackageLicenseUrl>https://github.com/ievgeniistepanenko/Repositories/blob/master/LICENSE</PackageLicenseUrl>
-    <Version>1.0.1</Version>
+    <Version>1.2.1</Version>
     <AssemblyVersion>1.0.1.0</AssemblyVersion>
+    <PackageReleaseNotes>moved up to .net standard 2.1 anf Entity Framework 3.0</PackageReleaseNotes>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="2.2.1" />
-    <PackageReference Include="Softwaris.Specification.Interfaces" Version="1.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.0.1" />
+    <PackageReference Include="Softwaris.Specification.Interfaces" Version="1.0.1" />
   </ItemGroup>
 
 </Project>
